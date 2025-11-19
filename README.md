@@ -5,9 +5,6 @@
     <a href="https://github.com/LuanEduardo1" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/luan-eduardo-silva" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
     <a href="mailto:luan.sv307@gmail.com">
       <img src="https://img.shields.io/badge/Email-00CED1?style=for-the-badge&logo=gmail&logoColor=black"/>
     </a>
