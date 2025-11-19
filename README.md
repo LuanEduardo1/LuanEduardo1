@@ -24,12 +24,8 @@ Banco de Dados e Web: SQL, HTML, CSS e desenvolvimento full stack básico.
 Aprimorar minhas habilidades em pentest e segurança ofensiva, aplicando boas práticas de desenvolvimento seguro.
 Conquistar certificações estratégicas em segurança da informação e redes (EXIN, LPI, CCNA, entre outras).
 Contribuir para projetos open source e documentar meus estudos em CTFs e laboratórios de segurança.
+.</p>
 
-🌱 Curiosidades
-
-Autodidata, sempre explorando novas áreas dentro de TI.
-Gosto de unir desenvolvimento e cibersegurança, entendendo o ciclo completo das aplicações.
-Me interesso por temas como engenharia social, IA aplicada à segurança e criptografia.</p>
 </div>
 
 ---
